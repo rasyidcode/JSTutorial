@@ -1,4 +1,5 @@
 # vuecrud
+Tutorial by [investmentnovel.com](https://investmentnovel.com/vue-js-crud-example-tutorial-from-scratch/)
 
 ## Project setup
 ```
